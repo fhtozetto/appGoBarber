@@ -16,8 +16,8 @@ export const Container = styled.View`
 export const TextInput = styled.TextInput`
   flex: 1;
   color: #fff;
-  font-size: 16px;
-  font-family: 'RobotoSlab-Medium';
+  font-size: 18px;
+  font-family: 'RobotoSlab-Regular';
 `;
 
 export const Icon = styled(FeatherIcon)`
